@@ -29,9 +29,9 @@ Transforming raw data into meaningful insights through analytics, visualization,
 
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Databases
 
@@ -39,53 +39,53 @@ Transforming raw data into meaningful insights through analytics, visualization,
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neondottech&logoColor=000000)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ### Data Analytics & BI
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
 
 ### Python Libraries
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)
 
 ### Machine Learning
 
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![PyCaret](https://img.shields.io/badge/PyCaret-FF6F00?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### Web Development
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge\&logo=jupyter)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge\&logo=googlecolab)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge\&logo=kaggle)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚖 Uber Trip Analytics Dashboard
+### 🚖 BrewMetrics Dashboard
 
-* Interactive Power BI dashboard for ride performance analysis
-* Revenue, trip distance, vehicle performance, and KPI tracking
-* Ride cancellation and incomplete trip monitoring
-* Driver ratings and operational insights visualization
+* Developed an interactive Power BI sales analytics dashboard for a coffee shop business.
+* Tracked key KPIs including revenue, total orders, and quantity sold.
+* Analyzed product-wise and store-wise sales performance to identify top performers.
+* Examined customer purchasing patterns and sales trends to understand business behavior.
+* Built intuitive and visually engaging reports to help stakeholders monitor growth and make data-driven decisions.
 
 ---
 
@@ -111,26 +111,6 @@ Transforming raw data into meaningful insights through analytics, visualization,
 * Created insightful visualizations using Matplotlib and Seaborn
 
 ---
-
-
-## 📜 Certifications
-
-### 🎓 Data Analytics with Python
-**NPTEL**
-
-- Learned Python fundamentals for data analysis and data handling.
-- Applied statistical techniques and machine learning concepts to derive insights from data.
-- Worked with data preprocessing, visualization, and analytical workflows.
-
----
-
-### 🗄️ SQL
-**Skill Up**
-
-- Learned core SQL concepts including queries, joins, subqueries, and aggregate functions.
-- Performed data extraction, transformation, and analysis using SQL.
-- Developed skills in writing efficient queries for business and analytical use cases.
-
 
 
 ## 🌐 Connect With Me
